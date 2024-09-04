@@ -5,6 +5,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/gislany-araujo-dev/)
 
+
 </div>
 
 <hr>
@@ -19,7 +20,7 @@
 
 <div align="center">
 
-![Your github status](https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=dark)
+![Your github status](https://github-readme-stats.vercel.app/api?username=gislanysa&show_icons=true&theme=dark)
 <<<<<<< HEAD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislanysa&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
