@@ -21,7 +21,7 @@
 <div align="center">
 
 ![Your github status](https://github-readme-stats.vercel.app/api?username=gislanysa&show_icons=true&theme=dark)
-<<<<<<< HEAD
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislanysa&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 =======
